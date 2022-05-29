@@ -20,5 +20,5 @@ if test -z "$pid" || test -z "$up_to_date" ; then
 	npm install
 
 	echo "Starting new server process"
-	nodejs src/js/srv/main.js >> log.txt&
+	node src/js/srv/main.js >> log.txt&
 fi
