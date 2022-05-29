@@ -1,0 +1,50 @@
+Creating HTTP server on port 5000
+Creating WS server on port 5000
+Request: GET /
+Uncaught exception 'TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value "undefined" for header "Access-Control-Allow-Origin"' for request /
+Request: GET /favicon.ico
+Uncaught exception 'TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value "undefined" for header "Access-Control-Allow-Origin"' for request /favicon.ico
+Creating HTTP server on port 5000
+Creating WS server on port 5000
+Request: GET /
+Uncaught exception 'TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value "undefined" for header "Access-Control-Allow-Origin"' for request /
+Creating HTTP server on port 5000
+Creating WS server on port 5000
+Request: GET /
+Uncaught exception 'TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value "undefined" for header "Access-Control-Allow-Origin"' for request /
+Request: GET /
+Uncaught exception 'TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value "undefined" for header "Access-Control-Allow-Origin"' for request /
+Request: GET /
+Uncaught exception 'TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value "undefined" for header "Access-Control-Allow-Origin"' for request /
+Request: GET /
+Uncaught exception 'TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value "undefined" for header "Access-Control-Allow-Origin"' for request /
+Creating HTTP server on port 5000
+Creating WS server on port 5000
+Request: GET /
+Uncaught exception 'TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value "undefined" for header "Access-Control-Allow-Origin"' for request /
+Request: GET /
+Uncaught exception 'TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value "undefined" for header "Access-Control-Allow-Origin"' for request /
+Request: GET /
+Uncaught exception 'TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value "undefined" for header "Access-Control-Allow-Origin"' for request /
+Request: GET /
+Uncaught exception 'TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value "undefined" for header "Access-Control-Allow-Origin"' for request /
+Request: GET /favicon.ico
+Uncaught exception 'TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value "undefined" for header "Access-Control-Allow-Origin"' for request /favicon.ico
+Request: GET /
+Uncaught exception 'TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value "undefined" for header "Access-Control-Allow-Origin"' for request /
+Request: GET /favicon.ico
+Uncaught exception 'TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value "undefined" for header "Access-Control-Allow-Origin"' for request /favicon.ico
+Request: GET /
+Uncaught exception 'TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value "undefined" for header "Access-Control-Allow-Origin"' for request /
+Request: GET /favicon.ico
+Uncaught exception 'TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value "undefined" for header "Access-Control-Allow-Origin"' for request /favicon.ico
+Request: GET /
+Uncaught exception 'TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value "undefined" for header "Access-Control-Allow-Origin"' for request /
+Request: GET /favicon.ico
+Uncaught exception 'TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value "undefined" for header "Access-Control-Allow-Origin"' for request /favicon.ico
+Creating HTTP server on port 8080
+Creating WS server on port 8080
+Request: GET /
+Uncaught exception 'TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value "undefined" for header "Access-Control-Allow-Origin"' for request /
+Request: GET /favicon.ico
+Uncaught exception 'TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value "undefined" for header "Access-Control-Allow-Origin"' for request /favicon.ico
